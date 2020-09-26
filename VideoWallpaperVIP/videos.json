@@ -1,0 +1,218 @@
+{
+	"Categories": [{
+			"name": "Abstract"
+		},
+		{
+			"name": "Animal"
+		},
+		{
+			"name": "Comic"
+		},
+		{
+			"name": "Nature"
+		},
+		{
+			"name": "Flicker"
+		},
+		{
+			"name": "Space"
+		},
+		{
+			"name": "SexyGirl"
+		},
+		{
+			"name": "Other"
+		}
+	],
+
+	"Wallpapers": [{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/lighting001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/lighting001.jpg",
+			"name": "Lighting",
+			"category": "Nature"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/pupil001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/pupil001.jpg",
+			"name": "Pupil",
+			"category": "Abstract"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/jupiter001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/jupiter001.jpg",
+			"name": "Jupiter",
+			"category": "Space"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/blue_flower001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/blue_flower001.jpg",
+			"name": "Blue Flower",
+			"category": "Other"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/leaf001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/leaf001.jpg",
+			"name": "Leaf",
+			"category": "Abstract"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/angel001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/angel001.jpg",
+			"name": "Angel",
+			"category": "Other"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/oblivion001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/oblivion001.jpg",
+			"name": "Oblivion",
+			"category": "Abstract"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/juggle001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/juggle001.jpg",
+			"name": "Juggle",
+			"category": "Other"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/crystal_dolphin001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/crystal_dolphin001.jpg",
+			"name": "Crystal Dolphin",
+			"category": "Animal"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/jellyfish001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/jellyfish001.jpg",
+			"name": "Jellyfish",
+			"category": "Animal"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/marshmello001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/marshmello001.jpg",
+			"name": "Marshmello",
+			"category": "Other"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/needle001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/needle001.jpg",
+			"name": "Needle",
+			"category": "Nature"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/astrolabe001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/astrolabe001.jpg",
+			"name": "Astrolabe",
+			"category": "Flicker"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/white_crane001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/white_crane001.jpg",
+			"name": "White Crane",
+			"category": "Animal"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/flowing_color001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/flowing_color001.jpg",
+			"name": "Flowing Color",
+			"category": "Abstract"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/nebula001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/nebula001.jpg",
+			"name": "Nebula",
+			"category": "Space"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/aries001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/aries001.jpg",
+			"name": "Aries",
+			"category": "Other"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/auroras001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/auroras001.jpg",
+			"name": "Auroras",
+			"category": "Comic"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/crystal_ball001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/crystal_ball001.jpg",
+			"name": "crystal ball",
+			"category": "Other"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/split001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/split001.jpg",
+			"name": "Split",
+			"category": "Abstract"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/split002.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/split002.jpg",
+			"name": "Split",
+			"category": "Abstract"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/dunhuang_frescoes001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/dunhuang_frescoes001.jpg",
+			"name": "Dunhuang Frescoes",
+			"category": "Other"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/flicker_wolf001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/flicker_wolf001.jpg",
+			"name": "Wolf",
+			"category": "Flicker"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/whale001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/whale001.jpg",
+			"name": "Whale",
+			"category": "Animal"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/clouds001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/clouds001.jpg",
+			"name": "Clouds",
+			"category": "Nature"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/lollipop_girl001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/lollipop_girl001.jpg",
+			"name": "Lollipop Girl",
+			"category": "SexyGirl,Comic"
+		},
+		{
+			"author": "From the Internet",
+			"url": "https://craftsapp.github.io/VideoWallpaperVIP/videos/letter_l001.mp4",
+			"thumbUrl": "https://craftsapp.github.io/VideoWallpaperVIP/previews/letter_l001.jpg",
+			"name": "Letter L",
+			"category": "Other"
+		}
+	]
+}
