@@ -41,34 +41,6 @@
 			},
 			{
 				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/videos/sea_world001.mp4",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/sea_world001.jpg",
-				"name": "B Sea World",
-                "category": "Nature"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/videos/love_heart001.mp4",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/love_heart001.jpg",
-				"name": "A Love Heart",
-                "category": "Other"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/videos/billows001.mp4",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/billows001.jpg",
-				"name": "CBillows",
-                "category": "Nature"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/videos/hatsune_miku001.mp4",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/hatsune_miku001.jpg",
-				"name": "Hatsune Miku01",
-                "category": "Comic"
-			},
-			{
-				"author": "From the Internet",
 				"url": "https://xappteam.github.io/VideoWallpaper/videos/hatsune_miku002.mp4",
 				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/hatsune_miku002.jpg",
 				"name": "MHatsune Miku02",
@@ -94,6 +66,41 @@
 				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/beach001.jpg",
 				"name": "CBeach",
                 "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://xappteam.github.io/VideoWallpaper/videos/gear001.mp4",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/gear001.jpg",
+				"name": "Gear",
+                "category": "Other"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://xappteam.github.io/VideoWallpaper/videos/particle005.mp4",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/particle005.jpg",
+				"name": "Particle",
+                "category": "Abstract,Flicker"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://xappteam.github.io/VideoWallpaper/videos/lotus001.mp4",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/lotus001.jpg",
+				"name": "Lotus",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://xappteam.github.io/VideoWallpaper/videos/sleep_moon001.mp4",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/sleep_moon001.jpg",
+				"name": "Sleep under Moon",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://xappteam.github.io/VideoWallpaper/videos/wolf003.mp4",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/wolf003.jpg",
+				"name": "KKWolf",
+                "category": "Animal"
 			},
 			{
 				"author": "From the Internet",
@@ -1294,38 +1301,31 @@
 			},
 			{
 				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/videos/gear001.mp4",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/gear001.jpg",
-				"name": "Gear",
+				"url": "https://xappteam.github.io/VideoWallpaper/videos/sea_world001.mp4",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/sea_world001.jpg",
+				"name": "B Sea World",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://xappteam.github.io/VideoWallpaper/videos/love_heart001.mp4",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/love_heart001.jpg",
+				"name": "A Love Heart",
                 "category": "Other"
 			},
 			{
 				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/videos/particle005.mp4",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/particle005.jpg",
-				"name": "Particle",
-                "category": "Abstract,Flicker"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/videos/lotus001.mp4",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/lotus001.jpg",
-				"name": "Lotus",
+				"url": "https://xappteam.github.io/VideoWallpaper/videos/billows001.mp4",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/billows001.jpg",
+				"name": "CBillows",
                 "category": "Nature"
 			},
 			{
 				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/videos/sleep_moon001.mp4",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/sleep_moon001.jpg",
-				"name": "Sleep under Moon",
-                "category": "Nature"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/videos/wolf003.mp4",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/wolf003.jpg",
-				"name": "KKWolf",
-                "category": "Animal"
+				"url": "https://xappteam.github.io/VideoWallpaper/videos/hatsune_miku001.mp4",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/previews/hatsune_miku001.jpg",
+				"name": "Hatsune Miku01",
+                "category": "Comic"
 			},
 			{
 				"author": "From the Internet",
