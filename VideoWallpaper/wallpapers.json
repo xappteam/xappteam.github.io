@@ -61,6 +61,48 @@
         [
 			{
 				"author": "From the Internet",
+				"url": "https://xappteam.github.io/VideoWallpaper/wallpapers/ocean002.jpg",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/ocean002.jpg",
+				"name": "Ocean",
+                "category": "Ocean/Beach"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://xappteam.github.io/VideoWallpaper/wallpapers/oceano_dunes001.jpg",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/oceano_dunes001.jpg",
+				"name": "Oceano Dunes",
+                "category": "Mountain,Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://xappteam.github.io/VideoWallpaper/wallpapers/old_harry_rocks001.jpg",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/old_harry_rocks001.jpg",
+				"name": "Old Harry Rocks",
+                "category": "World"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://xappteam.github.io/VideoWallpaper/wallpapers/old_way001.jpg",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/old_way001.jpg",
+				"name": "Old Way",
+                "category": "People,World"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://xappteam.github.io/VideoWallpaper/wallpapers/on_target001.jpg",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/on_target001.jpg",
+				"name": "On Target",
+                "category": "AerialView"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://xappteam.github.io/VideoWallpaper/wallpapers/owl_peeking_around_wall001.jpg",
+				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/owl_peeking_around_wall001.jpg",
+				"name": "Owl",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
 				"url": "https://xappteam.github.io/VideoWallpaper/wallpapers/afterglow001.jpg",
 				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/afterglow001.jpg",
 				"name": "K After Glow",
@@ -1822,48 +1864,6 @@
 				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/ocean001.jpg",
 				"name": "Ocean",
                 "category": "Ocean/Beach"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/wallpapers/ocean002.jpg",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/ocean002.jpg",
-				"name": "Ocean",
-                "category": "Ocean/Beach"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/wallpapers/oceano_dunes001.jpg",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/oceano_dunes001.jpg",
-				"name": "Oceano Dunes",
-                "category": "Mountain,Dark/Black"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/wallpapers/old_harry_rocks001.jpg",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/old_harry_rocks001.jpg",
-				"name": "Old Harry Rocks",
-                "category": "World"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/wallpapers/old_way001.jpg",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/old_way001.jpg",
-				"name": "Old Way",
-                "category": "People,World"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/wallpapers/on_target001.jpg",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/on_target001.jpg",
-				"name": "On Target",
-                "category": "AerialView"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://xappteam.github.io/VideoWallpaper/wallpapers/owl_peeking_around_wall001.jpg",
-				"thumbUrl": "https://xappteam.github.io/VideoWallpaper/wallpapers/owl_peeking_around_wall001.jpg",
-				"name": "Owl",
-                "category": "Animals"
 			},
 			{
 				"author": "From the Internet",
