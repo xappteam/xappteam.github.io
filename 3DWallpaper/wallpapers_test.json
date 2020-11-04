@@ -1,0 +1,54 @@
+{
+	"Categories": [{
+			"name": "Abstract"
+		},
+		{
+			"name": "Animal"
+		},
+		{
+			"name": "Comic"
+		},
+		{
+			"name": "Nature"
+		},
+		{
+			"name": "Flicker"
+		},
+		{
+			"name": "Space"
+		},
+		{
+			"name": "SexyGirl"
+		},
+		{
+			"name": "Festival"
+		},
+		{
+			"name": "Other"
+		}
+	],
+
+	"Wallpapers": [{
+			"author": "From the Internet",
+			"url": {
+				"layer3": "http://d.c-launcher.com/wallpaper_4d/20191120/085414950772.png",
+				"layer2": "http://d.c-launcher.com/wallpaper_4d/20191120/085414708219.png",
+				"layer1": "http://d.c-launcher.com/wallpaper_4d/20191120/085414369243.png"
+			},
+			"thumbUrl": "https://xappteam.github.io/3DWallpaper/previews/20201021001.jpg",
+			"name": "3DSpacescape",
+			"category": "Nature,Animal"
+		},
+		{
+			"author": "From the Internet",
+			"url": {
+				"layer3": "http://d.c-launcher.com/wallpaper_4d/20191009/025754579902.png",
+				"layer2": "http://d.c-launcher.com/wallpaper_4d/20191009/025754387271.png",
+				"layer1": "http://d.c-launcher.com/wallpaper_4d/20191009/025754080957.jpg"
+			},
+			"thumbUrl": "https://xappteam.github.io/3DWallpaper/previews/20201021002.jpg",
+			"name": "Universe",
+			"category": "Abstract,Comic,Festival,Other,Flicker"
+		}
+	]
+}
