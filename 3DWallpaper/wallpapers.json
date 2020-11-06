@@ -1,24 +1,19 @@
 {
-	"Categories": [{
-			"name": "Abstract"
+	"Categories": [
+		{
+			"name": "Space"
 		},
 		{
-			"name": "Animal"
-		},
-		{
-			"name": "Comic"
+			"name": "Ocean"
 		},
 		{
 			"name": "Nature"
 		},
 		{
-			"name": "Flicker"
+			"name": "Animal"
 		},
 		{
-			"name": "Space"
-		},
-		{
-			"name": "SexyGirl"
+			"name": "Human"
 		},
 		{
 			"name": "Festival"
@@ -28,7 +23,8 @@
 		}
 	],
 
-	"Wallpapers": [{
+	"Wallpapers": [
+		{
 			"author": "From the Internet",
 			"url": {
 				"layer3": "http://d.c-launcher.com/wallpaper_4d/20191120/085414950772.png",
