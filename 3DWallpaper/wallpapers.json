@@ -27,24 +27,24 @@
 		{
 			"author": "From the Internet",
 			"url": {
-				"layer3": "http://d.c-launcher.com/wallpaper_4d/20191120/085414950772.png",
-				"layer2": "http://d.c-launcher.com/wallpaper_4d/20191120/085414708219.png",
-				"layer1": "http://d.c-launcher.com/wallpaper_4d/20191120/085414369243.png"
+				"layer3": "https://xappteam.github.io/3DWallpaper/3d/2020110701c.png",
+				"layer2": "https://xappteam.github.io/3DWallpaper/3d/2020110701b.png",
+				"layer1": "https://xappteam.github.io/3DWallpaper/3d/2020110701a.jpg"
 			},
 			"thumbUrl": "https://xappteam.github.io/3DWallpaper/previews/20201021001.jpg",
 			"name": "3DSpacescape",
-			"category": "Nature,Animal"
+			"category": "Space,Nature"
 		},
 		{
 			"author": "From the Internet",
 			"url": {
-				"layer3": "http://d.c-launcher.com/wallpaper_4d/20191009/025754579902.png",
-				"layer2": "http://d.c-launcher.com/wallpaper_4d/20191009/025754387271.png",
-				"layer1": "http://d.c-launcher.com/wallpaper_4d/20191009/025754080957.jpg"
+				"layer3": "https://xappteam.github.io/3DWallpaper/3d/2020110702c.png",
+				"layer2": "https://xappteam.github.io/3DWallpaper/3d/2020110702b.png",
+				"layer1": "https://xappteam.github.io/3DWallpaper/3d/2020110702a.jpg"
 			},
 			"thumbUrl": "https://xappteam.github.io/3DWallpaper/previews/20201021002.jpg",
 			"name": "Universe",
-			"category": "Abstract,Comic,Festival,Other,Flicker"
+			"category": "Space,Nature"
 		}
 	]
 }
