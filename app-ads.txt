@@ -1,0 +1,2 @@
+#app-ads.txt file for APP: Video Live Wallpaper
+google.com, pub-3733406725093711, DIRECT, f08c47fec0942fa0
